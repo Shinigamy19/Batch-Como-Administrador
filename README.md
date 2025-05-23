@@ -18,7 +18,9 @@
 - Ideal para técnicos, desarrolladores y automatización de scripts.
 
 📽️ Tutorial en YouTube:
+<br>
 <a href="https://youtu.be/El3RXgHJ2X0" target="blank"><img alt="Cómo Ejecutar un Script Batch COMO ADMINISTRADOR | Tutorial Batch" src="Batch como administrador.png" width="500" /></a>
+<br>
 👉 Mira el video completo aquí:
 <a href="https://youtu.be/El3RXgHJ2X0">🔗 Cómo Ejecutar un Script Batch COMO ADMINISTRADOR | Tutorial Batch</a>
 
